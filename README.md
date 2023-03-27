@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johanna</h1>
-<h3 align="center">A software engineer from the NYC metro area.</h3>
+<h3 align="center">I'm full stack software engineer from the NYC metro area. I'm currently working on VaaS, a Kubernetes visualization tool with OpenFaaS support.</h3>
 
 - 🔭 I’m currently working on [VaaS](https://github.com/oslabs-beta/VaaS)
 
@@ -7,8 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/johannamerluza" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="johannamerluza" /></a>
-</p>
+<a href="https://linkedin.com/in/johannamerluza" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="johanna merluza linkedin" /></a>
+ <a href="mailto:johanna.merluza@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="johanna merluza email" /></a>
+</p> 
+
 
 <h3 align="left">Languages and Tools:</h3>
 
