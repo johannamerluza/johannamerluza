@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johanna Merluza</h1>
-<h3 align="center">A software engineer passionate about building visually appealing web applications. I am currently working on VaaS, a Kubernetes metrics visualization tool with OpenFaaS support.</h3>
+<h3 align="center">A software engineer from the NYC metro area.</h3>
 
 - 🔭 I’m currently working on [VaaS](https://github.com/oslabs-beta/VaaS)
 
