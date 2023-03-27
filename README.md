@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Johanna Merluza</h1>
+<h1 align="center">Hi 👋, I'm Johanna</h1>
 <h3 align="center">A software engineer from the NYC metro area.</h3>
 
 - 🔭 I’m currently working on [VaaS](https://github.com/oslabs-beta/VaaS)
