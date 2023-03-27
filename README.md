@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [VaaS](https://github.com/oslabs-beta/VaaS)
 
-- 📫 How to reach me **johanna.merluza@gmail.com**
+- 📫 How to reach me: **johanna.merluza@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1WV3wVGAdRrK08JqwF6wgYsy6HFe3vYmm/view?usp=share_link)
+- 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1WV3wVGAdRrK08JqwF6wgYsy6HFe3vYmm/view?usp=share_link)
 
-- ⚡ Fun fact **I am a chili head 🌶️**
+- ⚡ Fun fact: **I am a chili head 🌶️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
