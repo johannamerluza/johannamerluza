@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johanna</h1>
-<h3 align="center">I'm full stack software engineer from the NYC metro area. I'm currently working on VaaS, a Kubernetes visualization tool with OpenFaaS support.</h3>
+<h3 align="center">I'm full stack software engineer from the NYC metro area.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
